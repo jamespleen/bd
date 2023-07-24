@@ -20,7 +20,7 @@
 
 :root {
   --font-primary: gg sans;
-  --font-code: Source Code Pro;
+  --font-code: gg sans;
   --floating-background-opacity: 50;
   --floating-background-blur: 0px;
   --version: "0.9.9";
