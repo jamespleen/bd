@@ -19,7 +19,7 @@
 @import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/ServerColumns/ServerColumns.css');
 
 :root {
-  --font-primary: Roboto;
+  --font-primary: gg sans;
   --font-code: Source Code Pro;
   --floating-background-opacity: 50;
   --floating-background-blur: 0px;
